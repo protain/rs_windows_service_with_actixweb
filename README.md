@@ -1,0 +1,4 @@
+# rs_windows_service_with_actixweb
+
+RustでActix-Webを使ったセルフホストなWebアプリケーションのプログラムをWindowsサービス化するためのサンプルプログラム。
+終了処理をまってシャットダウンするための待機処理含めた形のサンプル実装としています。
